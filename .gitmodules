@@ -1,0 +1,3 @@
+[submodule "submodule-git-madhan"]
+	path = submodule-git-madhan
+	url = https://github.com/madhan-231105/submodule-git-madhan.git
